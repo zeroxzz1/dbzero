@@ -1,1 +1,1 @@
-# dbzero
+# token.json
